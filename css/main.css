@@ -5,12 +5,13 @@ nav {
   background-color: white;
   z-index: 99; }
 
-nav ul li {
-  display: block;
-  margin: 0 auto;
-  color: #000000; }
-
 hr {
-  width: 80%; }
+  width: 60%; }
+
+#menu a {
+  display: inline;
+  margin: 100px auto;
+  padding: 0 15px;
+  color: #000000; }
 
 /*# sourceMappingURL=main.css.map */
